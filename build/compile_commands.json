@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/damia/Documents/EINIS_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/damia/Documents/EINIS_project/dependencies -g -o CMakeFiles\\rl_go.dir\\src\\main.cpp.obj -c C:\\Users\\damia\\Documents\\EINIS_project\\src\\main.cpp",
+  "file": "C:\\Users\\damia\\Documents\\EINIS_project\\src\\main.cpp",
+  "output": "CMakeFiles\\rl_go.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/damia/Documents/EINIS_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -IC:/Users/damia/Documents/EINIS_project/dependencies -g -o CMakeFiles\\rl_go.dir\\src\\glad.c.obj -c C:\\Users\\damia\\Documents\\EINIS_project\\src\\glad.c",
+  "file": "C:\\Users\\damia\\Documents\\EINIS_project\\src\\glad.c",
+  "output": "CMakeFiles\\rl_go.dir\\src\\glad.c.obj"
+}
+]
